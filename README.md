@@ -29,6 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Desktop View](./images/profilecard1.jpg)
+
+
 ![Mobile View](./images/mobile.png)
 
 ## My process
