@@ -7,7 +7,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [Overview](#overview)
 
   - [The challenge](#the-challenge)
-  - [Links](#links)
+  - [Links](#links) -[Screenshot](#Screenshot)
 
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,6 +25,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Solution URL: [Project-3](https://github.com/aasthaanand123/Project-3)
 - Live Site URL: [Netlify](https://profilecard1.netlify.app/)
+
+### Screenshot
+
+![Desktop View](./images/profilecard1.jpg)
+![Mobile View](./images/mobile.png)
 
 ## My process
 
